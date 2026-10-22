@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "travel-explorer-app",
+    "name": "Travel Explorer",
     "slug": "travel-explorer-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "primaryColor": "#0D6EFD",
+    "splash": {
+      "backgroundColor": "#0D6EFD",
+      "resizeMode": "contain"
+    },
     "ios": {
       "supportsTablet": true
     },
